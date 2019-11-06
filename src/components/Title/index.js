@@ -19,7 +19,7 @@ let Title = ({highscore, score, message}) => (
         </div>
 
         <div className="directions-wrapper">
-            <h1>Memory Game</h1>
+            <h1>Clicky Memory Game</h1>
             <h2>Clicking A Unique Card Grants A Point and Will Shuffle The Cards!  Be Careful, You Can't Select The Same Card Twice!</h2>
         </div>
     </div>
